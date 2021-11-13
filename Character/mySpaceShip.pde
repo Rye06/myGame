@@ -1,5 +1,5 @@
 /**
- * Space Ship 
+ * Spaceship 
  * Made by Shaurya(Rye)
  **/
 
@@ -22,7 +22,7 @@ void setup()
 void drawsShip() {
 
   /****************************************************
-            Function to Draw the Space Ship 
+            Function to Draw the Spaceship 
   ****************************************************/
   //--------------------------------------------------------------------------------------  
   /**** Standard/Common Dimensions to be used ****/
@@ -243,4 +243,4 @@ void drawsShip() {
 
   //CODE FINISHED
   
-} //draws space ship
+} //draws spaceship
