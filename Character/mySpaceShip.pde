@@ -67,8 +67,8 @@ void drawsShip() {
   fill(255);
 
   //Dimensions for the translation of the x and y coordinates for the inner rectangle in the entrance door
-  float xTransRectEntrance = 282;
-  float yTransRectEntrance = -64.7;
+  float xTransRectEntrance = entrancePosX+1;
+  float yTransRectEntrance = entranceLen-94.7;
 
   pushMatrix();
 
